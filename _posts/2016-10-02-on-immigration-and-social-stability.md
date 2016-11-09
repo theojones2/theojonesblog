@@ -8,7 +8,7 @@ layout: post
 permalink: https://theojones.name/?p=11
 published: true
 ---
-<img class="alignnone wp-image-42 size-large" src="https://theojones.name/wp-content/uploads/2016/10/23415105682_3dcf6b05fb_k-1024x447.jpg" alt="23415105682_3dcf6b05fb_k" width="750" height="327" />
+&nbsp;
 
 This is kind of a response to this part of the <a href="http://slatestarcodex.com/2016/09/28/ssc-endorses-clinton-johnson-or-stein/">recent never-Trump essay</a> by Scott Alexander, plus similar ideas I have heard elsewhere [1. Really, give it a read. Other than a few quibbles it's a very good essay. Regular link at http://slatestarcodex.com/2016/09/28/ssc-endorses-clinton-johnson-or-stein/ Archival link at http://archive.is/UtoYX ].
 <blockquote>The one place where Clinton is higher-variance than Trump is immigration. Clinton does not explicitly support open borders, but given her election on a pro-immigration platform and the massive anti-Trump immigration backlash that seems to be materializing, it’s easy to see her moving in that direction. If you believe that immigrants can import the less-effective institutions of their home countries, .... or cause ethnic fractionalization that replaces sustainable democratic politics with ethnic coalition-building (unlike the totally-not-ethnic-coalition-based politics of today, apparently?), that could potentially make the world less functional and prevent useful technologies from being deployed.</blockquote>
@@ -22,15 +22,13 @@ A 2010 paper by Kesler et. al, <em><a href="https://www.cambridge.org/core/jou
 
 It is worth noting here that, despite the stereotype, the population of the United States is actually, by opinion polls and other metrics, <em>more</em> tolerant and <em>more</em> pluralist than most of Europe. This is discussed in <a href="http://www.economist.com/news/briefing/21702748-new-divide-rich-countries-not-between-left-and-right-between-open-and">a recent article</a> [3.  <em>Drawbridges up</em> published Jul 30th 2016 ] in <em>The Economist</em>.
 
-<img class="alignnone size-medium wp-image-17" src="https://theojones.name/wp-content/uploads/2016/10/20160730_FBC179-235x300.png" alt="20160730_fbc179" width="235" height="300" />
+&nbsp;
 
 This means that the U.S is in the zone where immigrants will tend to be integrated into the broader society instead of excluded, and thus immigration will be a boon for society and social stability.
 
 Herreros et. al. in a paper titled <a href="http://psx.sagepub.com/content/57/2/337.short">Social Trust, Social Capital and Perceptions of Immigration</a> published in the journal Political Studies [4. Herreros, Francisco, and Henar Criado. "Social trust, social capital and perceptions of immigration." <i>Political Studies</i> 57, no. 2 (2009): 337-355. ] , contends that a lot of the perceived negative effects that immigration can have on social capital in many cases are due to exogenousity issues.  Namely, immigrants tend to 1) have low social capital, and 2) migrate to countries where social trust and social capital are high. The effects on the social trust and social capital of natives in the host countries is very low, and the social trust and social capital of the immigrants could actually increase.
 
 The evidence that multiculturalism is inherently negative is weak.
-
-[caption id="attachment_27" align="alignright" width="200"]<img class="size-medium wp-image-27" src="https://theojones.name/wp-content/uploads/2016/10/16992554157_3b0e004f57_k-200x300.jpg" alt="Cuban restaurant" width="200" height="300" /> Photo via Flickr https://flic.kr/p/rTzhkF by Phillip Pessar under CC BY licence[/caption]
 
 Let's look at some of the ways that immigrants can change the surrounding culture, such as bilingualism, on all of natives, immigrants, and society. Immigration has the potential to create an economic advantage to becoming bilingual -- ie. the immigration creates a Spanish speaking consumer base, and businesses that can sell to it can profit from its existence. However, there is no reason to suspect that this is a zero sum result that comes at the cost of the typical non-immigrant. The Spanish language market would not exist were it not for immigration. It therefore creates new value that can be obtained by the bilingual, but does not net destroy value. Additionally, the economic value of being a native speaker of English also increases, due to that skill becoming less common proportionally in the population, and due to possible economic uses of that skill.
 
@@ -45,7 +43,3 @@ Things become interesting when you add immigrants to this model. If you have a l
 Again this is a repeat of the general rule of avoiding excluded underclasses of immigrants. In my opinion, this is one place where the U.S has failed with new immigrants, but the existence of <em>jus soli</em> citizenship in America has reduced this issue with the children of immigrants
 
 &nbsp;
-
-<!--more-->
-
-Feature/title image via <a href="https://flic.kr/p/BF7x9E">https://flic.kr/p/BF7x9E</a>  and is under CC0
