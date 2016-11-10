@@ -5,7 +5,8 @@ author: theojones
 post_date: 2016-11-10 07:25:36
 post_excerpt: ""
 layout: post
-permalink: https://theojones.name/?p=17
+permalink: >
+  https://theojones.name/2016/11/presidential-election-post-mortem/
 published: true
 ---
 Unfortunately, Donald Trump won the election and it looks like he will become the next President of the United States. In this post I will elaborate on some of my thoughts about this.
