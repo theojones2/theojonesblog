@@ -65,6 +65,6 @@ And considering what I am seeing on social media, this may not change. I’m wor
 
 <strong>Addendum</strong>
 
-See my response to an ask on tumblr I received in responce to this post
+See my response to an ask on tumblr I received in response to this post
 
 https://theopjones.tumblr.com/post/153017816077/class-is-at-best-secondary-issue-for-the-left
