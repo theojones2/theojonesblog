@@ -106,9 +106,9 @@ This indicates that the evidence for the ability for the price setting power eff
 <strong>Q: Those studies are about minimum wages increases that are near the current level. What about fight for 15?</strong>
 
 Most <a href="https://www.epionline.org/studies/survey-of-us-economists-on-a-15-federal-minimum-wage/">economists are negative about the $15/hr minimum wage</a> idea, as one survey shows.
-<blockquote>
 <blockquote><em>Key Findings: Nearly three-quarters of these US-based economists oppose a federal minimum wage of $15.00 per hour. The majority of surveyed economists believe a $15.00 per hour minimum wage will have negative effects on youth employment levels (83%), adult employment levels (52%), and the number of jobs available (76%).When economists were asked what effect a $15.00 per hour minimum wage will have on the skill level of entry-level positions, 8 out of 10 economists (80%) believe employers will hire entry-level positions with greater skills.When economists were asked what effect a $15.00 per hour minimum wage will have on small businesses with fewer than 50 employees, nearly 7 out of 10 economists (67%) believe it would make it harder for them to stay in business.</em></blockquote>
-&nbsp;</blockquote>
+&nbsp;
+
 Compare that to polling on <a href="http://www.igmchicago.org/igm-economic-experts-panel/poll-results?SurveyID=SV_br0IEq5a9E77NMV">smaller minimum wage increases</a>.
 
 <img class="alignnone size-full wp-image-116" src="https://theojones.name/wp-content/uploads/2016/11/Screen-Shot-2016-11-15-at-10.16.38-PM.png" alt="screen-shot-2016-11-15-at-10-16-38-pm" width="870" height="1190" />
