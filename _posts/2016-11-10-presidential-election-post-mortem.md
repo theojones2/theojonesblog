@@ -65,6 +65,34 @@ And considering what I am seeing on social media, this may not change. I’m wor
 
 <strong>Addendum</strong>
 
-See my response to an ask on tumblr I received in response to this post
+See my response to an <a href="https://theopjones.tumblr.com/post/153017816077/class-is-at-best-secondary-issue-for-the-left">ask on tumblr</a> I received in response to this post
 
-https://theopjones.tumblr.com/post/153017816077/class-is-at-best-secondary-issue-for-the-left
+The ask
+
+
+<blockquote>
+"Class is at best secondary issue for the left." look, you don't understand us. This is exactly what some of us have been fighting against. We were screaming doom about this narrative. We predicted right-wing populism taking up our turf. We weren't heard.
+</blockquote>
+
+My response
+
+
+<blockquote>
+I want to clarify a bit here. I wasn’t really referring to your part of the left, of course class is your bread and butter. (I think you are referring to this post of mine on my mainblog  )
+
+I was referring to the mainstream of the Democratic Party, and the SJ/campus activist part of the left. 
+
+And I will readily concede that it is very troublesome that the mainstream/clinton part of the Democratic Party responded to the defeats of the 70s and 80s by largely abdicating economic policy and stopping any serious attempts at helping the poor. 
+
+There are many people who are suffering severely due to the effects of automation and globalization and even though both are beneficial in the broad scheme of things, little has been done to help those that are suffering and make those changes as universally beneficial as possible.  And even those changes aside, there are lots of poor people who need assistance. And who aren’t getting it. Despite my support for Clinton, I have very major issues with her policies (or lack of policies) on those matters. 
+
+And the SJ element of the left has refused to acknowledge and internalize how strongly class can be an axis of oppression (perhaps because a lot of the academics and writers involved are quite privileged in that regard). It has a nasty tendency to try to fix oppression by beating up on the most disadvantaged of the privileged group (instead of fighting those with actual power or unearned privilege) , as can be seen in its interaction with rural working class whites, or with neurodiverse individuals, or in many other cases. 
+
+And this means that the right has won on economic issues by default with little contest from the left. And its pernicious attempts to roll back the economic safety net have taken the day. I’m not a libertarian or a conservative, and I do think that the victory of the right is very troublesome and will hurt a lot of people. 
+
+But here is where I think we disagree. I don’t really think that rest of the left has offered a good alternative. 
+
+The Bernie segment of the Democratic Party is still a different type of isolationist populist. Bernie’s economic policies are centered on helping the upper middle class, not the working class or the poor. Relative to the ACA the poor would net lose under Bernie’s health care proposals. Bernie’s plan included a large flat payroll tax increase at the federal level, and put expenses on the states that would be covered by sales taxes, and would give poor very little that the ACA hasn’t. His education plan feeds the bubble elements of the higher education system, and throws money at many people who are already quite well off. 
+
+And the more traditionally socialist harder core elements of the left, I believe are making roughly the inverse mistake of the mainstream Democrats. The mistakes the left made during the 70s did serve to show that on grounds of efficiency markets fundamentally work, and thus to some degree they have to be kept at the core of the economy. Fixing the nasty distributional impacts of markets, and fixing market failures are extremely important goals (again I’m not a libertarian). But markets should exist in some form. 
+</blockquote>
