@@ -60,4 +60,4 @@ It's a feature of the American political system that Congress and the President 
 
 The government shutdown was quite different from the debt ceiling crisis in that it was more due to an impasse and difference in policy goals between the branches of government. The President wanted funding for the ACA and related measures, Congress didn't. And because both Congress and the President are needed to get policy passed, the system was at a gridlock. I don't think it is very useful to say that either side "caused" this impasse. Because it was the <em>mutual </em>disagreement in policy between <em>both</em> of the participants that caused it. But it does show how both sides will try their hardest to cast blame on each other.
 
-Edits: Fixed a few typeos and removed one sentence that didn't really fit well with the overall context.
+<strong>Edits</strong>: Fixed a few typeos and removed one sentence that didn't really fit well with the overall context.
