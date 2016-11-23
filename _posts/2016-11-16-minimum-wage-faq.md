@@ -115,7 +115,7 @@ Compare that to polling on <a href="http://www.igmchicago.org/igm-economic-exper
 <h3>Q: Could there be effects on long term employment growth, instead of a short term disemployment effect?</h3>
 Yes. Some <a href="http://michaelelgart.com/analyzing-the-minimum-wage-the-data/">research has shown this</a>. Although, this is much less well studied.
 <h3>Q: What is the optimum value for the minimum wage?</h3>
-A number of studies have estimated the optimum value of the minimum wage to be at around 40% - 50% of the median wage -- roughly $12/hr . See, for instance, this paper http://www.hamiltonproject.org/assets/legacy/files/downloads_and_links/state_local_minimum_wage_policy_dube.pdf
+A number of studies have estimated the optimum value of the minimum wage to be at around 40% - 50% of the median wage -- roughly $12/hr . See, for instance, this paper <a href="http://www.hamiltonproject.org/assets/legacy/files/downloads_and_links/state_local_minimum_wage_policy_dube.pdf">http://www.hamiltonproject.org/assets/legacy/files/downloads_and_links/state_local_minimum_wage_policy_dube.pdf</a>
 <h3>Q: Is there a good example of a case where the minimum wage was set excessively high in a way that created a noticeable disemployment effect?</h3>
 Yes. About a decade ago Congress imposed the national minimum wage on Puerto Rico (which has a much lower percapita GDP than the mainland U.S. This created a minimum wage that was 77% of the median wage -- relative to labor market forces the highest minimum wage in the world. See, this paper
 
