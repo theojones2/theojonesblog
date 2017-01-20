@@ -1,12 +1,12 @@
 ---
-ID: 61
+ID: 30
 post_title: The Meeting
 author: theojones
-post_date: 2016-11-16 00:34:11
+post_date: 2017-01-20 03:34:34
 post_excerpt: ""
 layout: post
 permalink: >
-  https://theojones.name/2016/11/the-meeting/
+  https://theojones.name/index.php/2017/01/20/the-meeting/
 published: true
 ---
 <h3><em>This is an attempt of mine at a flash fiction. </em></h3>

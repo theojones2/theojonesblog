@@ -1,12 +1,12 @@
 ---
-ID: 85
+ID: 28
 post_title: Minimum Wage FAQ
 author: theojones
-post_date: 2016-11-16 06:03:35
+post_date: 2017-01-20 03:34:33
 post_excerpt: ""
 layout: post
 permalink: >
-  https://theojones.name/2016/11/minimum-wage-faq/
+  https://theojones.name/index.php/2017/01/20/minimum-wage-faq/
 published: true
 ---
 I've been planning to do a fairly lengthy post on my thoughts about the minimum wage for a while. So, here it is.

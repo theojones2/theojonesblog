@@ -1,12 +1,12 @@
 ---
-ID: 44
+ID: 26
 post_title: Thoughts on political polarization
 author: theojones
-post_date: 2016-11-15 04:18:21
+post_date: 2017-01-20 03:34:32
 post_excerpt: ""
 layout: post
 permalink: >
-  https://theojones.name/2016/11/thoughts-political-polarization/
+  https://theojones.name/index.php/2017/01/20/thoughts-on-political-polarization-2/
 published: true
 ---
 In this post I will sketch out some of my thoughts on two questions.
